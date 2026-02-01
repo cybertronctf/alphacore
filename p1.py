@@ -1,1 +1,0 @@
-print("alphacore FIX")
