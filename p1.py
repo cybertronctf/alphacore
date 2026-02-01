@@ -1,1 +1,1 @@
-print("alphacore INSERT")
+print("alphacore UPDATE")
